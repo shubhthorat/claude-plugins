@@ -62,6 +62,13 @@
       "source": "./plugins/dub",
       "category": "external-integrations",
       "homepage": "https://dub.co/docs"
+    },
+    {
+      "name": "apple-calendar",
+      "description": "Apple Calendar — list, read, create, update, and delete events from your Mac's Calendar app.",
+      "source": "./plugins/apple-calendar",
+      "category": "developer-tools",
+      "homepage": "https://www.apple.com/macos/calendar/"
     }
   ]
 }

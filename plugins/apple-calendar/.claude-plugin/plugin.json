@@ -1,0 +1,6 @@
+{
+  "name": "apple-calendar",
+  "version": "0.1.0",
+  "description": "Apple Calendar MCP — list, read, create, update, and delete events from your Mac's Calendar app.",
+  "mcp": ".mcp.json"
+}

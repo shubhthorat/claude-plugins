@@ -1,6 +1,0 @@
-{
-  "name": "apple-home",
-  "version": "0.1.0",
-  "description": "Control Apple HomeKit devices from Claude Code via macOS Shortcuts.",
-  "mcp": ".mcp.json"
-}

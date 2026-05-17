@@ -21131,8 +21131,8 @@ server.tool(
       const app = Application("Calendar");
       const result = app.calendars().map(c => ({
         name: c.name(),
-        id: c.id(),
-        description: (() => { try { return c.description() || null; } catch { return null; } })()
+        description: (() => { try { return c.description() || null; } catch { return null; } })(),
+        writable: (() => { try { return c.writable(); } catch { return null; } })()
       }));
       JSON.stringify(result);
     `);

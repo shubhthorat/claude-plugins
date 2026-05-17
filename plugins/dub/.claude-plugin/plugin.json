@@ -1,7 +1,6 @@
 {
-  "name": "dub-partners",
-  "description": "Dub.co Partners — affiliate programs, links, analytics, earnings, payouts, and messages. Powered by dub.shubhthorat.com.",
-  "author": {
-    "name": "Shubh Thorat"
-  }
+  "name": "dub",
+  "version": "0.1.0",
+  "description": "Dub.co Partners — affiliate programs, links, analytics, earnings, payouts, and messages.",
+  "mcp": ".mcp.json"
 }

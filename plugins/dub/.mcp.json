@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dub-partners": {
+      "type": "http",
+      "url": "https://mcp.dub.shubhthorat.com"
+    }
+  }
+}

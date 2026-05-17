@@ -55,6 +55,13 @@
       "source": "./plugins/apple-home",
       "category": "external-integrations",
       "homepage": "https://www.apple.com/home-app/"
+    },
+    {
+      "name": "dub",
+      "description": "Dub.co Partners — affiliate programs, links, analytics, earnings, payouts, and messages.",
+      "source": "./plugins/dub",
+      "category": "external-integrations",
+      "homepage": "https://dub.co/docs"
     }
   ]
 }

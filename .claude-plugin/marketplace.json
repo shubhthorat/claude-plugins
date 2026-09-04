@@ -69,6 +69,13 @@
       "source": "./plugins/apple-calendar",
       "category": "developer-tools",
       "homepage": "https://www.apple.com/macos/calendar/"
+    },
+    {
+      "name": "vast-ai",
+      "description": "Vast.ai GPU instance management — search offers, create/destroy instances, and run commands via SSH through the Brainrot server.",
+      "source": "./plugins/vast-ai",
+      "category": "developer-tools",
+      "homepage": "https://vast.ai"
     }
   ]
 }

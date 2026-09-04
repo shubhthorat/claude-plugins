@@ -1,0 +1,7 @@
+{
+  "name": "vast-ai",
+  "description": "Manage Vast.ai GPU instances: search offers, create/destroy instances, run commands via SSH.",
+  "author": {
+    "name": "Shubh Thorat"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "vast-ai": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/bundle.js"],
+      "env": {
+        "VAST_API_SERVER_URL": "",
+        "VAST_API_KEY": "",
+        "VAST_SSH_KEY_PATH": "",
+        "VAST_SSH_USER": "root"
+      }
+    }
+  }
+}
